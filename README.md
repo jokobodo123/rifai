@@ -1,0 +1,2 @@
+# rifai
+belajar membuat script
